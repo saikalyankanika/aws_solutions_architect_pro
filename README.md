@@ -1,0 +1,2 @@
+# aws_solutions_architect_pro
+learnings and documenting learnings for aws_solutions_professional
