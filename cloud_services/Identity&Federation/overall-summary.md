@@ -56,7 +56,7 @@ Whiteboard prompt:
   - Simple AD (low-cost, basic AD-compatible)
 - AWS RAM: share VPC subnets, Transit Gateways, Route53 rules across accounts
 - Guardrails & SCPs enforce policies & restrict permissions centrally
-
+```
 
 
 
